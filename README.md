@@ -77,4 +77,4 @@ This project was built for educational purposes, heavily inspired by standard ac
 
 1. **[Computer Organization and Design RISC-V Edition: The Hardware Software Interface](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-812275-4)** by David A. Patterson and John L. Hennessy. *(The primary reference for the single-cycle datapath and two-level ALU decoding).*
 2. **[The Official RISC-V ISA Specification](https://riscv.org/technical/specifications/)** (Volume I, Unprivileged Spec) for instruction formats, immediate unscrambling, and opcode definitions.
-3. **Educational YouTube Channels:** Various community tutorials that provided practical insights into SystemVerilog syntax, testbench creation, and Xilinx Vivado simulation workflows. *(For example: Down to the Wires ( https://www.youtube.com/watch?v=ZIw6Bhf43hE&list=PLbJXh4O-T_aIov-5fBxvu8BXeIFqp6VBR )*.
+3. **Educational YouTube Channels:** Various community tutorials that provided useful additional understanding of the RISC-V architecture. *(For example: [Down to the Wires](https://www.youtube.com/watch?v=ZIw6Bhf43hE&list=PLbJXh4O-T_aIov-5fBxvu8BXeIFqp6VBR))*
